@@ -1,0 +1,56 @@
+[
+    {
+      "id": "01",
+      "title": "The Complete 2022 Web Development Bootcamp",
+      "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+      "picture": "https://contentstatic.techgig.com/thumb/msid-84794342,width-460,resizemode-4/What-are-the-key-responsibilities-of-web-developers.jpg?49831",
+      "details": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.You will master both front and back-end development, becoming a full-stack developer by the end of the course.Build fully-fledged websites and web apps for your startup or business.Master frontend development with ReactLearn professional developer best practices.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.After the course you will be able to build ANY website you want.Master backend development with Node.",
+      "cordinator": "Dr.Angel",
+      "language": "english"
+    },
+    {
+      "id": "02",
+      "title": "The Complete JavaScript Course 2022",
+      "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "picture": "https://miro.medium.com/max/720/1*LyZcwuLWv2FArOumCxobpA.png",
+      "details": "Become an advanced, confident, and modern JavaScript developer from scratch.Become job-ready by understanding how JavaScript really works behind the scenes.JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs.Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules.Build 6 beautiful real-world projects for your portfolio (not boring toy apps).Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+      "cordinator": "Jonas Smith",
+      "language": "english"
+    },
+    {
+      "id": "03",
+      "title": "Learning Python for Data Analysis and Visualization",
+      "description": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+      "picture": "https://www.westcodesoft.com/wp-content/uploads/2022/07/python-features.jpg",
+      "details": "Have an intermediate skill level of Python programming.Use the numpy library to create and manipulate arrays.Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.Have a portfolio of various data analysis projects.Use the Jupyter Notebook Environment.Use the Jupyter Notebook Environment.Create data visualizations using matplotlib and the seaborn modules with python.",
+      "cordinator": "Scott F",
+      "language": "english"
+    },
+    {
+      "id": "04",
+      "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+      "picture": "https://miro.medium.com/max/720/1*tdleGEdFsX9YmTsuJuuzJQ.jpeg",
+      "details": "Build powerful, fast, user-friendly and reactive web apps.Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now.Provide amazing user experiences by leveraging the power of JavaScript with ease.Learn all about React Hooks and React Components.It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!",
+      "cordinator": "Obada Smith",
+      "language": "english"
+    },
+    {
+      "id": "05",
+      "title": "Photoshop Master Course: From Beginner to Photoshop Pro.",
+      "description": "This Adobe Photoshop Beginner Course will teach a Beginner Photoshop user all essentials of Adobe Photoshop CC",
+      "picture": "https://f.hellowork.com/blogdumoderateur/2020/02/Photoshop-30-ans.jpg",
+      "details": "What Photoshop is & how to get into it!Customize the programs layout & feel comfortable.Understand layers & it's panels.Understand adjustment layers how to use them.Understand setting color profiles, save PSD files & web files.Understand cutting objects out, fixing skin & manipulation.This course is perfect for beginners Never used photoshop before.Understand all photoshop basics & tools.Understand masks & how to use them.Working with the pen tool, liquify & puppet warp tool.Working with brush tool, the clone stamp tool & healing brush and much, much more!",
+      "cordinator": "Amanda",
+      "language": "english"
+    },
+    {
+      "id": "06",
+      "title": "Master Web Design in Photoshop: Complete UI/UX Masterclass",
+      "description": "Learn UI/UX and how to create stunning website | Everything you need to know about web design in 2022 | All in Photoshop",
+      "picture": "https://celesttechnologies.com/assets/images/blog/Different-Between-UI-UX.png",
+      "details": "Learn about conversion rates, bounce rates, improving sales.Understand fantastic web design principles that can be immediately applied to any project.Create beautiful website designs in Photoshop.Learn how to work with coders and succesfully handover the design.Learn UX principles that produce immediate results.The differences between landing pages and standard websites.Learn to design custom graphics and beautiful icons. Gain access to premium psd files and templates to inspire your own projects.Discover how to work with clients and how to remain competitive in a cutting-edge industry. ",
+      "cordinator": "Rolands",
+      "language": "english"
+    }
+  ]
